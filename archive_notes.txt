@@ -1,0 +1,8 @@
+Wallet Archive Notes 
+Several encrypted archives remain inaccessible. 
+Required information may exist within:
+ - historical records 
+ - migration logs 
+ - cryptographic references 
+ Reminder: Do not assume removed fields are permanently lost. 
+ Cross-reference research materials before attempting recovery.

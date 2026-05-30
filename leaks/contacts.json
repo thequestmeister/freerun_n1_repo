@@ -1,0 +1,1 @@
+{ "research_team": [ { "name": "Alan Turing", "department": "Cryptanalysis", "status": "archived" }, { "name": "Kevin Mitnick", "department": "Human Factors", "status": "archived" }, { "name": "Bruce Schneier", "department": "Cryptography", "status": "archived" } ], "migration_batch": "legacy-2025" }
