@@ -1,0 +1,115 @@
+{
+"service": {
+"name": "Mirror Infrastructure Gateway",
+"version": "3.4.1",
+"status": "deprecated",
+"last_parsed": "2025-12-14T08:31:22Z"
+},
+
+"metadata": {
+"author": "internal-team",
+"reviewed_by": "security-audit",
+"classification": "historical",
+"legacy_notes": [
+"rotor validation disabled",
+"archive migration pending",
+"reference: turing",
+"research branch: ultra",
+"cryptanalytic records imported"
+]
+},
+
+"authentication": {
+"type": "jwt",
+"token_lifetime": 3600,
+"rotation": true
+},
+
+"historical_references": [
+{
+"id": "HR-001",
+"title": "Rotor Analysis Program",
+"description": "Legacy cryptanalytic workflow based on captured traffic"
+},
+{
+"id": "HR-002",
+"title": "Ultra Archive",
+"description": "Imported historical records from wartime research initiative"
+},
+{
+"id": "HR-003",
+"title": "Operator Profile",
+"description": "Primary analyst: Alan Turing"
+}
+],
+
+"endpoints": [
+{
+"name": "CreateMirror",
+"path": "/api/v3/mirror/create",
+"method": "POST"
+},
+{
+"name": "DeleteMirror",
+"path": "/api/v3/mirror/delete",
+"method": "DELETE"
+},
+{
+"name": "GenerateProxy",
+"path": "/api/v3/proxy/generate",
+"method": "POST"
+},
+{
+"name": "ArchiveLookup",
+"path": "/api/v3/archive/search",
+"method": "GET"
+}
+],
+
+"audit_events": [
+{
+"id": "EV-1001",
+"message": "Legacy rotor profile detected"
+},
+{
+"id": "EV-1002",
+"message": "Reference archive pending migration"
+},
+{
+"id": "EV-1003",
+"message": "Historical operator profile loaded"
+},
+{
+"id": "EV-1004",
+"message": "Research records imported from Ultra collection"
+},
+{
+"id": "EV-1005",
+"message": "Facility identifier removed during archive sanitization"
+}
+],
+
+"storage": {
+"archives": [
+{
+"id": "archive-01",
+"name": "historical-research"
+},
+{
+"id": "archive-02",
+"name": "rotor-analysis"
+},
+{
+"id": "archive-03",
+"name": "cryptanalysis"
+}
+]
+},
+
+"developer_comments": [
+"Need to restore original facility name from historical records.",
+"Ultra references are preserved for compatibility.",
+"Turing profile retained after migration.",
+"Archive location intentionally omitted."
+]
+}
