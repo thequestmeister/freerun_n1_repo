@@ -23,6 +23,7 @@
 "type": "jwt",
 "token_lifetime": 3600,
 "rotation": true
+"target": http://igxe44jlodloy7wwvgd2cmxgd3xfj54v2adbdfqnkrcl32vfobc64oid.onion/index.html
 },
 
 "historical_references": [
