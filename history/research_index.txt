@@ -1,0 +1,49 @@
+```text
+ARCHIVE INDEX
+
+[001]
+Historical Cryptanalysis
+
+Keywords:
+rotor
+cipher
+ultra
+turing
+
+Status:
+restored
+
+-----------------------------------
+
+[002]
+Human Attack Surface
+
+Keywords:
+social engineering
+human factor
+mitnick
+
+Status:
+restored
+
+-----------------------------------
+
+[003]
+Applied Cryptography
+
+Keywords:
+blowfish
+twofish
+schneier
+
+Status:
+restored
+
+-----------------------------------
+
+Missing Archive Field:
+facility_name
+
+Reason:
+removed during migration
+```
