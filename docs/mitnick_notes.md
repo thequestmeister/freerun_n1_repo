@@ -1,1 +1,12 @@
-# Human Factor Research Compiled references related to Kevin Mitnick. Topics: - Social engineering - Trust exploitation - Information gathering - Human attack surface Selected Quote: People are often easier to manipulate than technology. Research Tags: human identity trust pretext Archive Note: The human element remains one of the most significant variables in securi
+# Human Factor Research Compiled references related to Kevin Mitnick. 
+Topics: 
+- Social engineering
+- - Trust exploitation
+  - - Information gathering
+    - - Human attack surface
+Selected Quote:
+People are often easier to manipulate than technology.
+Research Tags:
+human identity trust pretext Archive
+Note: 
+The human element remains one of the most significant variables in security.
