@@ -1,8 +1,3 @@
-```
-
-# docs/history.md
-
-```md
 # Historical Timeline
 
 1939-1945
